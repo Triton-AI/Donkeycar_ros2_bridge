@@ -11,6 +11,6 @@ cd ~/donkeycar_ws/src
 ## Git clone 
 git clone https://github.com/Triton-AI/Donkeycar_ros2_bridge.git
 
-## CD to src dir
-cd ~/donkeycar_ws/src/Donkeycar_ros2_bridge/Donkeycar_ros2_bridge/src
+## cd to src dir
+cd ~/donkeycar_ws/src/Donkeycar_ros2_bridge/Donkeycar_ros2_bridge
 donkey createcar --path . --template ros2bridge
