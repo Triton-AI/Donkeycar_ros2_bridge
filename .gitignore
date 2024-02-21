@@ -1,1 +1,2 @@
-Donkeycar_ros2_bridge
+Donkeycar_ros2_bridge/data
+*.pyc
